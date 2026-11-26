@@ -1,0 +1,19 @@
+{
+  "name": "MJ's Motor Shop Dark Gold",
+  "dataColors": ["#FCCC00","#C0C0C0","#E4A800","#8C8C8C","#F5D563","#6B6B6B","#B38F00","#4D4D4D"],
+  "background": "#0D0D0D",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#FCCC00",
+  "good": "#1E9E4A",
+  "bad": "#D6332B",
+  "neutral": "#C0C0C0",
+  "visualStyles": {
+    "*": { "*": {
+      "background": [{ "color": { "solid": { "color": "#1B1B1B" } }, "transparency": 0 }],
+      "border": [{ "show": true, "color": { "solid": { "color": "#2E2E2E" } } }]
+    }},
+    "card": { "*": {
+      "background": [{ "color": { "solid": { "color": "#1B1B1B" } } }]
+    }}
+  }
+}
