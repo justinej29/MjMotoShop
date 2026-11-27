@@ -106,3 +106,17 @@ This dashboard demonstrates how data analytics and visualization can help a moto
 - Understand product demand across motorcycle models.
 - Improve visibility into business operations.
 
+## Authors
+
+This project was developed collaboratively by:
+
+1. Carlos, John Paul F.
+2. Dela Cruz, Justine James V.
+3. Talucod, Reane Shanil M.
+4. Trillana, Ishi B.
+5. Geron, Adrian E. Jose
+
+Bachelor of Science in Information Technology  
+Specialization in Data and Business Analytics
+
+This project was developed to demonstrate the practical application of data analytics, business intelligence, data visualization, and dashboard development using Microsoft Power BI.
